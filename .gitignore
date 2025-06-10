@@ -1,0 +1,25 @@
+# Python specific
+*.pyc
+__pycache__/
+.ipynb_checkpoints
+.mypy_cache/
+.pytest_cache/
+.venv/
+venv/
+env/
+
+# PyCharm specific
+.idea/
+
+# Logs
+logs/
+*.log
+
+# Sensitive Information - DO NOT COMMIT PASSWORDS, API KEYS, ETC.
+# This is CRITICAL. Your SENDER_PASSWORD MUST NOT be in your code when pushing to public GitHub.
+# It's best practice to move such secrets to environment variables or a separate config file
+# that is NOT tracked by Git.
+send_phish_email.py # If you hardcode passwords here, exclude it.
+# If you move your secrets to a separate config file named 'config.py', add it here:
+# config.py
+# *.env
