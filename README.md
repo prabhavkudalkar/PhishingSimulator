@@ -10,7 +10,7 @@ Gauge Awareness: Measure the current level of security awareness among employees
 Drive Behavioral Change: Provide a safe, impactful learning experience that encourages vigilance and better security habits.
 Automate Testing: Move beyond manual, ad-hoc tests to a more systematic and scalable approach to security awareness.
 
-2.** Why It's Important to Know and Learn:**
+2. **Why It's Important to Know and Learn:**
 
 Phishing is the #1 Attack Vector: In today's digital landscape, the vast majority of cyberattacks begin with a phishing attempt. Malicious actors constantly evolve their techniques, making it imperative for individuals to recognize and resist these threats.
 Humans are the Frontline Defense: While technology provides robust perimeter defenses (firewalls, anti-malware), sophisticated social engineering bypasses these. A well-trained employee is the ultimate firewall.
@@ -21,8 +21,8 @@ Logging and Data Analysis: Capturing and interpreting interaction data.
 Ethical Hacking Principles: Applying attack methodologies in a controlled, ethical context.
 Security Best Practices: Learning the importance of secret management (like environment variables) and secure coding.
 
-3. **Where It Can Be Used and How It Educates:
-**
+3. **Where It Can Be Used and How It Educates:**
+   
 Internal Employee Training: This is its primary use case. By sending simulated phishing emails, you can provide employees with real-world exposure to threats in a safe environment.
 Security Awareness Programs: Integrate the simulations into a broader security awareness training curriculum, making the training dynamic and measurable.
 Compliance and Auditing: Many regulatory frameworks (like GDPR, HIPAA, ISO 27001) require regular security awareness training. This tool helps demonstrate compliance.
